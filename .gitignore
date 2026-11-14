@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+server/records.json
+server/records.json.tmp
+
+backups/
+test-supabase.mjs
